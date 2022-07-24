@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot.ppg)
+![](screenshot.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-css-flexbox-NNcTQTIco-)
+- Live Site URL: [Vercel](https://nft-preview-card-component-pink-rho.vercel.app)
 
 ## My process
 
