@@ -34,8 +34,6 @@ Users should be able to:
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-css-flexbox-NNcTQTIco-)
 - Live Site URL: [Vercel](https://nft-preview-card-component-pink-rho.vercel.app)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
